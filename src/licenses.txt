@@ -1,0 +1,5 @@
+Images used in this project:
+
+- Visa icon by AuthorName, License XXX, Source: https://www.flaticon.com
+- Mastercard icon by AuthorName, License XXX, Source: https://www.flaticon.com
+- Mir icon by AuthorName, License XXX, Source: https://logo-teka.com/mir/
